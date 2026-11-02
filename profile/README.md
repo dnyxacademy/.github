@@ -30,8 +30,8 @@ not a job guarantee.
 
 | Repository | What it is for |
 |---|---|
-| [`AI-Assignments`](https://github.com/dnyxacademy/AI-Assignments) | Assignment briefs and starter material for the AI internship |
-| [`MERN-Assignments`](https://github.com/dnyxacademy/MERN-Assignments) | Assignment briefs and starter material for the MERN internship |
+| [`AI-Assignments`](https://github.com/dnyxacademy/AI-Assignments) | Weekly assignment briefs for the AI internship |
+| [`MERN-Assignments`](https://github.com/dnyxacademy/MERN-Assignments) | Weekly assignment briefs for the MERN internship |
 | [`NPTEL-JAVA-PROGRAMMING`](https://github.com/dnyxacademy/NPTEL-JAVA-PROGRAMMING) | Open collection of NPTEL "Programming in Java" assignments, quizzes and solutions |
 | [`.github`](https://github.com/dnyxacademy/.github) | This profile and the organisation's shared community files |
 
