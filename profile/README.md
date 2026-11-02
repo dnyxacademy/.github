@@ -30,17 +30,28 @@ not a job guarantee.
 
 | Repository | What it is for |
 |---|---|
-| [`AI-Assignments`](https://github.com/dnyxacademy/AI-Assignments) | Weekly assignment briefs for the AI internship |
+| [`web-starter`](https://github.com/dnyxacademy/web-starter) | **Template.** Start your MERN project here — "Use this template" gives you your own copy |
+| [`ai-starter`](https://github.com/dnyxacademy/ai-starter) | **Template.** Start your AI project here — Week 1 notebook runs in Colab with nothing to install |
 | [`MERN-Assignments`](https://github.com/dnyxacademy/MERN-Assignments) | Weekly assignment briefs for the MERN internship |
+| [`AI-Assignments`](https://github.com/dnyxacademy/AI-Assignments) | Weekly assignment briefs for the AI internship |
 | [`NPTEL-JAVA-PROGRAMMING`](https://github.com/dnyxacademy/NPTEL-JAVA-PROGRAMMING) | Open collection of NPTEL "Programming in Java" assignments, quizzes and solutions |
 | [`.github`](https://github.com/dnyxacademy/.github) | This profile and the organisation's shared community files |
 
 ### If you are a learner on a batch
 
-1. Open the assignment folder for the current week in the matching `*-Assignments` repository.
-2. Build your solution in your own repository — keep it public so your mentor can read it.
-3. Submit the link in [Dnyx Learn](https://learn.dnyxacademy.com) before the due date; grades and
-   mentor feedback come back there.
+1. **Once, on day one:** open the starter template for your track (`web-starter` or `ai-starter`),
+   press **Use this template**, name it after your project, and keep it **public** — a private
+   repository shows your mentor a 404.
+2. Read the brief for the day's work in the matching `*-Assignments` repository. Your ticket and its
+   due date are in the Dnyx Learn lesson.
+3. Branch, build, commit as you go, and open a pull request. Small commits across several days are
+   part of how the work is marked.
+4. Paste the pull request link into the Dnyx Learn lesson before the due date. Grades and mentor
+   feedback come back there, within 48 hours.
+5. Reply in writing to every review comment, push the fixes, then merge it yourself.
+
+How we work, in full:
+[CONTRIBUTING.md](https://github.com/dnyxacademy/.github/blob/main/.github/CONTRIBUTING.md).
 
 Questions about an assignment belong in the lesson Q&A or a support ticket inside Dnyx Learn, so the
 answer reaches your whole batch and stays on your record.
