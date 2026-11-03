@@ -32,6 +32,7 @@ not a job guarantee.
 |---|---|
 | [`web-starter`](https://github.com/dnyxacademy/web-starter) | **Template.** Start your MERN project here — "Use this template" gives you your own copy |
 | [`ai-starter`](https://github.com/dnyxacademy/ai-starter) | **Template.** Start your AI project here — Week 1 notebook runs in Colab with nothing to install |
+| [`project-ideas`](https://github.com/dnyxacademy/project-ideas) | Choose your project here — eleven briefs scoped to four weeks, and where to look for more |
 | [`MERN-Assignments`](https://github.com/dnyxacademy/MERN-Assignments) | Weekly assignment briefs for the MERN internship |
 | [`AI-Assignments`](https://github.com/dnyxacademy/AI-Assignments) | Weekly assignment briefs for the AI internship |
 | [`NPTEL-JAVA-PROGRAMMING`](https://github.com/dnyxacademy/NPTEL-JAVA-PROGRAMMING) | Open collection of NPTEL "Programming in Java" assignments, quizzes and solutions |
@@ -42,13 +43,15 @@ not a job guarantee.
 1. **Once, on day one:** open the starter template for your track (`web-starter` or `ai-starter`),
    press **Use this template**, name it after your project, and keep it **public** — a private
    repository shows your mentor a 404.
-2. Read the brief for the day's work in the matching `*-Assignments` repository. Your ticket and its
+2. **Choose your project** from [project-ideas](https://github.com/dnyxacademy/project-ideas) and
+   get it approved by Tuesday. You keep it for all four weeks.
+3. Read the brief for the day's work in the matching `*-Assignments` repository. Your ticket and its
    due date are in the Dnyx Learn lesson.
-3. Branch, build, commit as you go, and open a pull request. Small commits across several days are
+4. Branch, build, commit as you go, and open a pull request. Small commits across several days are
    part of how the work is marked.
-4. Paste the pull request link into the Dnyx Learn lesson before the due date. Grades and mentor
+5. Paste the pull request link into the Dnyx Learn lesson before the due date. Grades and mentor
    feedback come back there, within 48 hours.
-5. Reply in writing to every review comment, push the fixes, then merge it yourself.
+6. Reply in writing to every review comment, push the fixes, then merge it yourself.
 
 How we work, in full:
 [CONTRIBUTING.md](https://github.com/dnyxacademy/.github/blob/main/.github/CONTRIBUTING.md).
